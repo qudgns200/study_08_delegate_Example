@@ -1,0 +1,9 @@
+D:\01_dev\study_08_delegate_Example\study_08_delegate_Example\bin\Debug\study_08_delegate_Example.exe.config
+D:\01_dev\study_08_delegate_Example\study_08_delegate_Example\bin\Debug\study_08_delegate_Example.exe
+D:\01_dev\study_08_delegate_Example\study_08_delegate_Example\bin\Debug\study_08_delegate_Example.pdb
+D:\01_dev\study_08_delegate_Example\study_08_delegate_Example\obj\Debug\study_08_delegate_Example.csprojResolveAssemblyReference.cache
+D:\01_dev\study_08_delegate_Example\study_08_delegate_Example\obj\Debug\study_08_delegate_Example.Form1.resources
+D:\01_dev\study_08_delegate_Example\study_08_delegate_Example\obj\Debug\study_08_delegate_Example.Properties.Resources.resources
+D:\01_dev\study_08_delegate_Example\study_08_delegate_Example\obj\Debug\study_08_delegate_Example.csproj.GenerateResource.Cache
+D:\01_dev\study_08_delegate_Example\study_08_delegate_Example\obj\Debug\study_08_delegate_Example.exe
+D:\01_dev\study_08_delegate_Example\study_08_delegate_Example\obj\Debug\study_08_delegate_Example.pdb
